@@ -18,4 +18,4 @@ print("""
  YouTube  : Trick Proof
 --------------------------------------------------\n""")
 
-print('This repo has been expired\nIf you want to install BXI\nVisit the following link\nLink: https://www.facebook.com/115098087021611/posts/277790370752381/')
+print('\nIf you want to install BXI\nVisit the following link\nLink: https://www.facebook.com/115098087021611/posts/277790370752381/')
